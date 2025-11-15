@@ -4,7 +4,7 @@
 **Department:** Department of Information Technology
 **Program:** BS Artificial Intelligence
 
-**Supervised By**: Sir Anwar Ali Sathio
+**Supervised By**: Sir Anwar Ali Sathio @Anwar-Ali-Sathio
 
 **Project Title:** Library Automation System (DBMS Project)
 
