@@ -54,3 +54,6 @@ Notification System (email/SMS for due dates)
 Student Login Portal to check issued books & fines
 
 The structure of the database is flexible and scalable, allowing it to be converted into a complete library management system.
+
+**Note**
+Lab Manual and report is also attached, you can download it for better understanding.
